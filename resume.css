@@ -1,0 +1,238 @@
+.black{
+    background-color:rgba(22, 22, 22, 0.929);
+    height: 900px; 
+    width: 25%;
+    margin-top: 15px;
+    margin-left: 43px;
+    margin-bottom: 15%;
+    float: left;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    position: relative;
+    
+}
+.gray{
+    background-color:rgba(255, 255, 255, 0.358);
+    height: 800px;
+    width: 66%;
+    float: right;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    position: relative;
+    right:6px;
+    bottom: 2px;
+    top: 13px;
+    right: 43px;
+    margin-bottom: 15%;
+    float: right;
+}
+.blue{
+
+    background-color:rgb(8, 8, 81);
+    height:100px;
+    width: 66%;
+    position: relative;
+    float: right;
+    top: 15px;
+    right: 43px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+.name{
+    font-size: 35PX;
+    color: azure;
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+.contact{
+    color:rgb(181, 171, 171);
+    position: relative;
+    top: 165px;
+    padding: 3PX;
+    font-size: 20px;
+    height: 23px;
+    width: 80%;
+    border-style: solid;
+    border-color:rgb(8, 8, 81);
+    border-width: 3PX;
+    text-align: center;
+    border-radius: 50px;
+    position: relative;
+    left: 3%;
+}
+.phno{
+    margin-left: 2%;
+    font-size: 15px;
+    position: relative;
+    left: 40px;
+    top: 160px;
+    color:rgb(181, 171, 171);  
+}
+.address{
+    margin-left: 2%;
+    color:rgb(181, 171, 171);  
+    font-size: 15px;
+    position: relative;
+    left: 40px;
+    top: 160px;
+}
+.mail{
+    margin-left: 2%;
+    color:rgb(181, 171, 171);  
+    font-size: 15px;
+    position: relative;
+    left: 40px;
+    top: 160px;
+}
+.skill{
+    color:rgb(181, 171, 171);
+    position: relative;
+    top: 165px;
+    padding: 3PX;
+    font-size: 20px;
+    height: 23px;
+    width: 80%;
+    border-style: solid;
+    border-color:rgb(8, 8, 81);
+    border-width: 3PX;
+    text-align: center;
+    border-radius: 50px;
+    position: relative;
+    left: 3%;
+}
+.skill-info{
+    font-size: 15px;
+    margin-left: 2%;
+    font-size: 15px;
+    position: relative;
+    top: 180px;
+    color:rgb(181, 171, 171); 
+}
+.soft-skill{
+    color:rgb(181, 171, 171);
+    position: relative;
+    top: 165px;
+    padding: 3PX;
+    font-size: 20px;
+    height: 23px;
+    width: 80%;
+    border-style: solid;
+    border-color:rgb(8, 8, 81);
+    border-width: 3PX;
+    text-align: center;
+    border-radius: 50px;
+    position: relative;
+    left: 3%;
+}
+.soft-skill-info{
+    font-size: 15px;
+    margin-left: 2%;
+    font-size: 15px;
+    position: relative;
+    top: 180px;
+    color:rgb(181, 171, 171);
+}
+.skill-info li{
+    padding: 2px;
+}
+.soft-skill-info li{
+    padding: 2px;
+}
+.career{
+    margin-top: 7%;
+    background-color:rgb(8, 8, 81);
+    color: aliceblue;
+    padding: 3PX;
+    font-size: 20px;
+    height: 23px;
+    width: 35%;
+    border-style: solid;
+    border-color:black;
+    border-width: 1PX;
+    text-align: center;
+    border-radius: 50px;
+    position: relative;
+    left: 3%;
+}
+p{
+    margin-left: 4%;
+    font-size: 15px;
+}
+.education{
+    margin-top: 7%;
+    background-color:rgb(8, 8, 81);
+    color: aliceblue;
+    padding: 3PX;
+    font-size: 20px;
+    height: 23px;
+    width: 35%;
+    border-style: solid;
+    border-color:black;
+    border-width: 1PX;
+    text-align: center;
+    border-radius: 50px;
+    position: relative;
+    left: 3%;
+}
+.education-info {
+    color: black;
+    font-size: 15px;
+}
+.about{
+    margin-top: 7%;
+    background-color:rgb(8, 8, 81);
+    color: aliceblue;
+    padding: 3PX;
+    font-size: 20px;
+    height: 23px;
+    width: 35%;
+    border-style: solid;
+    border-color:black;
+    border-width: 1PX;
+    text-align: center;
+    border-radius: 50px;
+    position: relative;
+    left: 3%;
+}
+.language{
+    margin-top: 7%;
+    background-color:rgb(8, 8, 81);
+    color: aliceblue;
+    padding: 3PX;
+    font-size: 20px;
+    height: 23px;
+    width: 35%;
+    border-style: solid;
+    border-color:black;
+    border-width: 1PX;
+    text-align: center;
+    border-radius: 50px;
+    position: relative;
+    left: 3%;
+}
+.language-info{
+    color: black;
+    font-size: 15px;
+}
+.phone{
+    position: relative;
+    top: 215px;
+    left: 15px;
+    font-size: 13px;
+}
+.location{
+    position: relative;
+    top: 240px;
+    left: 15px;
+    font-size: 17px;
+}
+.email{
+    position: relative;
+    top: 268px;
+    left: 15px;
+    font-size: 17px;  
+}
